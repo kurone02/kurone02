@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Nguyen+Minh+Duc;Computer+Science+Student;Deep+Learning;Information+Visualization)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Nguyen+Minh+Duc;Computer+Science;Deep+Learning;Finance+AI;Visualization)](https://git.io/typing-svg)
 
 # 👨‍💻 Duc M. Nguyen 👨‍💻
 
