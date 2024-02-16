@@ -63,7 +63,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurone02&layout=compact&hide=Jupyter%20Notebook,Tex)](https://github.com/wooing1084/github-readme-stats) ![kurone02's github stats](https://github-readme-stats.vercel.app/api?username=kurone02&show_icons=true&hide_rank=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurone02&layout=compact&hide=Jupyter%20Notebook,Tex) ![kurone02's github stats](https://github-readme-stats.vercel.app/api?username=kurone02&show_icons=true&hide_rank=true)
 
 ---
 
