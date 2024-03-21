@@ -65,7 +65,7 @@
 
 ## 📊 GitHub stats
 
-![kurone02's github stats](https://github-readme-stats.vercel.app/api?username=kurone02&show_icons=true&hide_rank=true&theme=transparent&count_private=true&theme=react&bg_color=151515)
+![kurone02's github stats](https://github-readme-stats.vercel.app/api?username=kurone02&hide_border=false&hide_rank=true&show_icons=true&count_private=true&theme=react&bg_color=151515)
 
 ## 💻 Most Used Programming Languages
 
