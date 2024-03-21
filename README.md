@@ -19,9 +19,6 @@
 <img src="https://img.shields.io/badge/ HAIV LAB Undergraduate Research Intern @ UNIST-EADBC6?style=for-the-badge"/>  
 </a>
 <br>
-<a href="https://admu-intl.unist.ac.kr/info/scholarships/">
-<img src="https://img.shields.io/badge/ UNIST Global Dream Scholarship Recipient-002C5F?style=for-the-badge&logo=k&logoColor=white"/>  
-</a>
 
 ---
 
@@ -35,6 +32,9 @@
 <img src="https://img.shields.io/badge/B.S Industrial Engineering (2020~2024) - UNIST-44c1c4?style=for-the-badge"/>
 </a>
 <be>
+<a href="https://admu-intl.unist.ac.kr/info/scholarships/">
+<img src="https://img.shields.io/badge/ UNIST Global Dream Scholarship Recipient-002C5F?style=for-the-badge&logo=k&logoColor=white"/>  
+</a>
 
 ---
 
@@ -63,7 +63,13 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurone02&layout=compact&hide=Jupyter%20Notebook,Tex) ![kurone02's github stats](https://github-readme-stats.vercel.app/api?username=kurone02&show_icons=true&hide_rank=true)
+## 📊 GitHub stats
+
+![kurone02's github stats](https://github-readme-stats.vercel.app/api?username=kurone02&show_icons=true&hide_rank=true&theme=transparent&count_private=true&theme=react&bg_color=151515)
+
+## 💻 Most Used Programming Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurone02&layout=compact&hide=Jupyter%20Notebook,Tex,D,SAS&theme=react)
 
 ---
 
