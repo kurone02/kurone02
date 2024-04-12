@@ -16,7 +16,7 @@
 ## 📚 Work
 
 <a href="https://ivader.unist.ac.kr/">
-<img src="https://img.shields.io/badge/ HAIV LAB Undergraduate Research Intern @ UNIST (2022-present)-EADBC6?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/ HAIV LAB Undergraduate Research Intern @ UNIST (2022~present)-EADBC6?style=for-the-badge"/>  
 </a>
 <br>
 
