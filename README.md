@@ -16,6 +16,10 @@
 ## 📚 Work
 
 <a href="https://ivader.unist.ac.kr/">
+<img src="https://img.shields.io/badge/ HAIV LAB Graduate Researcher (2024~present) - HAIV-4110c7?style=for-the-badge"/>  
+</a>
+<br>
+<a href="https://ivader.unist.ac.kr/">
 <img src="https://img.shields.io/badge/ HAIV LAB Undergraduate Research Intern (2022~present) - HAIV-4110c7?style=for-the-badge"/>  
 </a>
 <br>
@@ -27,6 +31,7 @@
 <a href="https://cse.unist.ac.kr/eng/">
 <img src="https://img.shields.io/badge/M.Sc Computer Science and Engineering (2024~2026) - UNIST-44c1c4?style=for-the-badge"/>
 </a>
+<br>
 <a href="https://cse.unist.ac.kr/eng/">
 <img src="https://img.shields.io/badge/B.S Computer Science and Engineering (2020~2024) - UNIST-44c1c4?style=for-the-badge"/>
 </a>
