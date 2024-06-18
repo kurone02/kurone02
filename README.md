@@ -25,6 +25,9 @@
 ## 🏫 Education  
 
 <a href="https://cse.unist.ac.kr/eng/">
+<img src="https://img.shields.io/badge/M.Sc Computer Science and Engineering (2024~2026) - UNIST-44c1c4?style=for-the-badge"/>
+</a>
+<a href="https://cse.unist.ac.kr/eng/">
 <img src="https://img.shields.io/badge/B.S Computer Science and Engineering (2020~2024) - UNIST-44c1c4?style=for-the-badge"/>
 </a>
 <br>
