@@ -91,6 +91,6 @@
   Curriculum Vitae
 </a>
 |
-<a href="https://www.linkedin.com/in/duc-m-nguyen-13b461118/">
+<a href="https://www.linkedin.com/in/ducnm02">
   LinkedIn
 </a>
