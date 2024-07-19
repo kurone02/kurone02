@@ -87,7 +87,7 @@
   Email
 </a>
 |
-<a href="#">
+<a href="https://github.com/kurone02/kurone02/blob/main/resume.pdf">
   Curriculum Vitae
 </a>
 |
