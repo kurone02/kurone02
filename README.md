@@ -82,7 +82,7 @@
 
 ## ☎️ Contact
 
-<a href="mailto:ducnm@unist.ac.kr">
+<a href="mailto:ducnm@postech.ac.kr">
   Email
 </a>
 |
