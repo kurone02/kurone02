@@ -18,7 +18,6 @@
 <a href="[https://ivader.unist.ac.kr/](https://sites.google.com/view/haiv/">
 <img src="https://img.shields.io/badge/ HAIV LAB Graduate Researcher (2024~present) - HAIV-4110c7?style=for-the-badge"/>  
 </a>
-<br>
 <a href="https://ivader.unist.ac.kr/">
 <img src="https://img.shields.io/badge/ HAIV LAB Undergraduate Research Intern (2022~2024) - HAIV-4110c7?style=for-the-badge"/>  
 </a>
@@ -32,7 +31,6 @@
 <img src="https://img.shields.io/badge/M.Sc Artificial Intelligence (2025~2027) - POSTECH-44c1c4?style=for-the-badge"/>
 </a>
 <br>
-
 <a href="https://cse.unist.ac.kr/eng/">
 <img src="https://img.shields.io/badge/B.S Computer Science and Engineering (2020~2024) - UNIST-44c1c4?style=for-the-badge"/>
 </a>
