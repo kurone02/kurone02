@@ -15,7 +15,7 @@
 
 ## 📚 Work
 
-<a href="https://ivader.unist.ac.kr/">
+<a href="[https://ivader.unist.ac.kr/](https://sites.google.com/view/haiv/">
 <img src="https://img.shields.io/badge/ HAIV LAB Graduate Researcher (2024~present) - HAIV-4110c7?style=for-the-badge"/>  
 </a>
 <br>
@@ -28,14 +28,11 @@
 
 ## 🏫 Education  
 
-<a href="https://cse.unist.ac.kr/eng/">
-<img src="https://img.shields.io/badge/M.Sc Computer Science and Engineering (2024~2026) - UNIST-44c1c4?style=for-the-badge"/>
+<a href="https://cse.postech.ac.kr/">
+<img src="https://img.shields.io/badge/M.Sc Artificial Intelligence (2025~2027) - POSTECH-44c1c4?style=for-the-badge"/>
 </a>
 <br>
-<a href="https://admu-intl.unist.ac.kr/info/scholarships/">
-<img src="https://img.shields.io/badge/ UNIST Government Scholarship Recipient-002C5F?style=for-the-badge&logo=k&logoColor=white"/>  
-</a>
-<br>
+
 <a href="https://cse.unist.ac.kr/eng/">
 <img src="https://img.shields.io/badge/B.S Computer Science and Engineering (2020~2024) - UNIST-44c1c4?style=for-the-badge"/>
 </a>
