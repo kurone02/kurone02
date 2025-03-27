@@ -15,7 +15,7 @@
 
 ## 📚 Work
 
-<a href="[https://ivader.unist.ac.kr/](https://sites.google.com/view/haiv/">
+<a href="https://sites.google.com/view/haiv/">
 <img src="https://img.shields.io/badge/ HAIV LAB Graduate Researcher (2024~present) - HAIV-4110c7?style=for-the-badge"/>  
 </a>
 <a href="https://ivader.unist.ac.kr/">
