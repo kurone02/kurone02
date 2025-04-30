@@ -6,7 +6,7 @@
 
 ## 💻  Interest
 
-- Deep Learning and Generative AI
+- Deep Learning and Generative AI (More specifically vision-language models)
 - AI For Finance
 - Human-Computer Interaction
 - Software Development
