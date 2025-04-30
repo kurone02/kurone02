@@ -27,7 +27,7 @@
 
 ## 🏫 Education  
 
-<a href="https://cse.postech.ac.kr/">
+<a href="https://ai.postech.ac.kr/">
 <img src="https://img.shields.io/badge/M.Sc Artificial Intelligence (2025~2027) - POSTECH-bf1366?style=for-the-badge"/>
 </a>
 <br>
